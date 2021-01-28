@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.circleci"
+    "\\.circleci",
+    "\\Local settings (.vs)"
   ],
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Local settings (.vs)",
+  "PreviewInSolutionExplorer": true
 }
